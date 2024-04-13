@@ -2,7 +2,16 @@
 ## 식집사
 
 
+
 ## 동떨마켓
+
+<table>
+  <tr>
+    <th></th>
+    <th>팀원 소개</th>
+  </tr>
+</table>
+
 <!--
 
 **Here are some ideas to get you started:**
