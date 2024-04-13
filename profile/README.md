@@ -17,7 +17,7 @@
     <td>1</td>
     <td>팀장</td>
     <td>한다현</td>
-    <td>@dahun</td>
+    <td><a href="https://github.com/dahxxn">@dahxxn</td>
   </tr>
 
   <tr>
@@ -37,8 +37,8 @@
   <tr>
     <td>4</td>
     <td>팀원</td>
-    <td>이은진</td>
-    <td>@jjjjjinseo</td>
+    <td>진서연</td>
+    <td><a href="https://github.com/jjjjjinseo">@jjjjjinseo</td>
   </tr>
 </table>
 
