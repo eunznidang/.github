@@ -24,7 +24,7 @@
     <td>2</td>
     <td>팀원</td>
     <td>이은진</td>
-    <td>@eunzi</td>
+    <td><a href="https://github.com/eunznidang">@eunznidang</td>
   </tr>
 
   <tr>
