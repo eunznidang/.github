@@ -6,9 +6,11 @@
 
 ### 동떨마켓
 
+&nbsp;📌 떨이 상품 판매 애플리케이션
+
 &nbsp;📅 2023. 03 ~ 2023. 11
 
-&nbsp;👑 K-hackathon 11기 우수상 수상작
+&nbsp;🏆 K-hackathon 11기 우수상 수상작
 
 <table>
   <tr>
