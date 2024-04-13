@@ -31,7 +31,7 @@
     <td>3</td>
     <td>팀원</td>
     <td>이은주</td>
-    <td>@eunnnju</td>
+    <td><a href="https://github.com/eunnnju">@eunnnju</td>
   </tr>
 
   <tr>
